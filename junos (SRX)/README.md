@@ -28,7 +28,7 @@ Juniper backup script for Junos OS (SRX range for example). Necessary files :
 - pscp.exe (32 or 64 bit)
 - puttygen.exe (key generation)
 
-These binaries can be downloaded from [PuTTY's website] (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
+These binaries can be downloaded from [PuTTY's website](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
 
 ### [EN] 🚦 Requirements 
 Requires a "super-user" account on Juniper equipment, with an associated SSH key.
